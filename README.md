@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+<img src="https://raw.githubusercontent.com/tresende/flutter_todo_list/master/sample.gif" />
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
